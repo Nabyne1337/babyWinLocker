@@ -59,45 +59,5 @@ namespace Rentex.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap _2024_07_01_0us_Kleki {
-            get {
-                object obj = ResourceManager.GetObject("2024_07_01_0us_Kleki", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap _2024_07_01_0uv_Kleki {
-            get {
-                object obj = ResourceManager.GetObject("2024_07_01_0uv_Kleki", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap _2024_07_01_0uw_Kleki {
-            get {
-                object obj = ResourceManager.GetObject("2024_07_01_0uw_Kleki", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap _95759321f8e05a9ca83fed6a0852b5af {
-            get {
-                object obj = ResourceManager.GetObject("95759321f8e05a9ca83fed6a0852b5af", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }
